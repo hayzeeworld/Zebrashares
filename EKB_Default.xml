@@ -1,0 +1,10 @@
+﻿<wap-provisioningdoc>
+  <characteristic version="14.0" type="UiMgr">
+    <parm name="InputMethodAction" value="1" />
+    <characteristic type="InputMethodDetails">
+      <parm name="InputMethodOption" value="4" />
+      <parm name="InputMethodPackageName" value="com.zebra.mdna.enterprisekeyboard" />
+      <parm name="InputMethodClassName" value="com.android.inputmethod.latin.LatinIME" />
+    </characteristic>
+  </characteristic>
+</wap-provisioningdoc>
